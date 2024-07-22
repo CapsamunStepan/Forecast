@@ -77,7 +77,6 @@ def pressure_converter(n):
         return -1
 
 
-
 def get_weather_data(city):
     geolocator = Nominatim(user_agent="weather_app")
     location = geolocator.geocode(city)
