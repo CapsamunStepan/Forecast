@@ -11,7 +11,7 @@ header {
     display: flex;
     height: 70px;
     align-items: center;
-    background: linear-gradient(135deg, #277da1, #f9c74f);
+    background: linear-gradient(135deg, #277da1, #ffffff);
     margin-bottom: 10px;
 }
 
