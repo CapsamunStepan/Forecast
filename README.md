@@ -1,5 +1,6 @@
 # Forecast
 ## Запуск
+_pip install -r requirements.txt_
 
 _python manage.py runserver_
 
